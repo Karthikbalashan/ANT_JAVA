@@ -1,0 +1,6 @@
+<ivy-module version="2.0">
+    <info organisation="com.example" module="my-java-app"/>
+    <dependencies>
+        <!-- Add dependencies here if needed -->
+    </dependencies>
+</ivy-module>
